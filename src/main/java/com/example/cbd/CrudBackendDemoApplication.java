@@ -8,5 +8,6 @@ public class CrudBackendDemoApplication{
 
 	public static void main(String[] args) {
 		SpringApplication.run(CrudBackendDemoApplication.class, args);
+		System.out.println("Hello");
 	}
 }
